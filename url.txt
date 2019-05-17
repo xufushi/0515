@@ -1,0 +1,1 @@
+https://lit-beach-16993.herokuapp.com/admin/login/?next=/admin/
